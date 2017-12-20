@@ -1,0 +1,6 @@
+﻿  Main.cpp
+c:\users\gamer\desktop\sfml view\sfml project\main.cpp(47): warning C4129: 'B': unrecognized character escape sequence
+c:\users\gamer\desktop\sfml view\sfml project\main.cpp(62): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\gamer\desktop\sfml view\sfml project\main.cpp(65): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\gamer\desktop\sfml view\sfml project\main.cpp(122): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  SFML Project.vcxproj -> C:\Users\Gamer\Desktop\SFML VIEW\Debug\SFML Project.exe
